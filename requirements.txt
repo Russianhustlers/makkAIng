@@ -1,1 +1,5 @@
-fastapi\nuvicorn[standard]\npytest\n
+fastapi
+uvicorn[standard]
+pytest
+matplotlib
+httpx
